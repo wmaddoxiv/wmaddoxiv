@@ -1,11 +1,3 @@
 # @wmaddoxiv
 
-Howdy! My name is Will Maddox and I am an Aerospace Engineer turned Software Developer.
-I am loving the software world and eager to keep learning more.
-I spend most of my time designing data processing and visualization tools and looking to expand my toolbelt to even more areas.
-
-## Languages
-
-- Python
-- JavaScript, HTML, CSS
-- C++
+Aerospace engineer → software engineer. I build developer tools, automation platforms, and full-stack applications with a focus on reliability, performance, and elegant system design. Currently obsessed with asynchronous systems, server interactions, and open source. Python enthusiast. Always building.
